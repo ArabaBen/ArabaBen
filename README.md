@@ -2,7 +2,7 @@
 <p> I am a coder, designer, and builder who focuses on accessibility-first approach to designs and social problems. I utilize my degree concentration in both sociology and CS to develop solutions through art, apps, sites, and physical projects.  
   <br>
  *🔭 I’m currently working on an educational web-based game. It's focus is on food, healthy habits and fun food related facts.<br> 
-  *🌱 I’m currently learning Game Designer and Game Development hosting.<br>
+  *🌱<b> I’m currently learning Game Designer and Game Development hosting.</b><br>
   *📫 You can reach me: <a href="mailto:araba.b.ocran@gmail.com">araba.b.ocran@gmail.com</a><br>
 </p>
 
