@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Araba but i'm also known as BNTUMA
-<p> I am a coder, designer, and builder who focuses on accessibility-first approach to designs and social problems. I utilize my degree concentration in both sociology and CS to develop solutions through art, apps, sites, and physical projects.  
+<p> I am a coder, designer, and builder who focuses on accessibility-first approach to designs and social problems. I utilize my degree concentration in both sociology and CS to develop solutions through art, sites, and physical projects.  
   <br>
- *🔭 I’m currently working on an educational web-based game. It's focus is on food, healthy habits and fun food related facts.<br> 
-  *🌱<b> I’m currently a PhD candidtae for Textile Science </b><br>
+ *🔭 I recently completed seriers of educational web-based game. It's focus is on food, healthy habits and fun food related facts.<br> 
+  *🌱<b> I’m currently pursuing the arts </b><br>
   *📫 You can reach me: <a href="mailto:araba.b.ocran@gmail.com">araba.b.ocran@gmail.com</a><br>
 </p>
 
