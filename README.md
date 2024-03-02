@@ -1,9 +1,9 @@
-### Hi there 👋 I'm Araba but i'm also known as BNTUMA
-<p> I am a coder, designer, and builder who focuses on accessibility-first approach to designs and social problems. I utilize my degree concentration in both sociology and CS to develop solutions through art, sites, and physical projects.  
+### Hi there 👋 I'm Araba but i'm also go by  BNTUMA
+<p> I am a coder, designer, and builder who focuses on accessibility-first approach to designs and social problems. I utilize my degree concentration in both sociology and CS to develop solutions through art, digital designs, and physical projects.  
   <br>
  *🔭 I recently completed seriers of educational web-based game. It's focus is on food, healthy habits and fun food related facts.<br> 
-  *🌱<b> I’m currently pursuing the arts </b><br>
-  *📫 You can reach me: <a href="mailto:araba.b.ocran@gmail.com">araba.b.ocran@gmail.com</a><br>
+  *🌱<b> I’m currently in pursuit of my Masters of Arts </b><br>
+  *📫 You can reach me: <a href="mailto:araba.b.ocran@gmail.com">araba.b.ocran@gmail.com</a> or <a href="mailto:bntuma,art@gmail.com@gmail.com">bntuma.art@gmail.com</a><br>
 </p>
 
 <!-- ### :hammer_and_wrench: Languages and Tools :
